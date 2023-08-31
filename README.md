@@ -8,7 +8,7 @@ Une radio EQ est une machine capable de détecter une certaine emotion chez une 
 
 0:27 - 1:15
 
-[![baiden](https://img.youtube.com/vi/nmcDnEhZTJM/0.jpg)](https://www.youtube.com/watch?v=nmcDnEhZTJM))
+[![baiden](https://img.youtube.com/vi/nmcDnEhZTJM/0.jpg)](https://www.youtube.com/watch?v=nmcDnEhZTJM)
 
 
 ## Le déroulement
@@ -18,7 +18,10 @@ Lorsqu'une personne viens s'assoir, la radio EQ détecte celui-ci. Selon son hum
 ## Inspiration
 Je n'ai pas trouvé de projet de ce genre déjà fait, mais ce qui m'a inspiré, c'est les détecteurs de mensonges utilisé par la police (les polygraphes) ou dans les films. C'est machines détectent si une certaine personne ment selon son rythme cardiaque, la pression du sang, la conductivité de sa peau et sa respiration. Pour rendre le tout artistique, je me suis inspiré du projet de fin d'année 2023 Echomarine.
 
-![/medias/echomarine_final.png](medias/echomarine_final.png)
+
+00:00 - 1:03
+[![baiden](https://img.youtube.com/vi/nWr8ja8kASE/0.jpg)](https://www.youtube.com/watch?v=nWr8ja8kASE)
+
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 Certaines images se trouvaient sur une tablette au centre de la salle. Dépendamment de l'image cliqué par l'utilisateur, une certaine animation s'affichait sur les murs. Mon inspiration était alors un mélange de ces deux concepts que j'ai trouvé très intéressant, bien que difficile à réaliser.
