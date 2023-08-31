@@ -6,6 +6,11 @@ Grâce à une radio EQ, les emotions de l'utilisateur va être détecter. Une an
 ## Radio EQ
 Une radio EQ est une machine capable de détecter une certaine emotion chez une personne, grâce à ses bâtements de coeurs et aux changements respiratoirs. Celle-ci a une précision de 87% sur sa détection de l'excitement, la colère, l'amusement, le bonheur, ou la tristesse. Il transmet un signal RF (qui sont des fréquences radio) et analyse les reflets sur le corps de la personne. Sa précision est comparable à celle d'un moniteur ECG sur le corps. Un ECG est une machine capable de détecter les anomalies du coeur, comme ses bâtements.
 
+0:27 - 1:15
+
+[![baiden](https://img.youtube.com/vi/nmcDnEhZTJM/0.jpg)](https://www.youtube.com/watch?v=nmcDnEhZTJM))
+
+
 ## Le déroulement
 
 Lorsqu'une personne viens s'assoir, la radio EQ détecte celui-ci. Selon son humeur, un chien sur l'écran fera une certaine animation. Par exemple, si la personne est excité, le chien courrera dans tout les senses. Si la personne est triste ou nerveuse, le chien serait à son tour nerveux. Bien sure, seuls certaines émotions principales seront détecté et animé à travers le chien pour un meilleur fonctionnement du projet et pour rendre le processus plus simple.
